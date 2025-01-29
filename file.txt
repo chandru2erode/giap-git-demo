@@ -1,2 +1,2 @@
 Hello Everyone!
-Welcome you all to this Git Demo Session!!
+Welcome you all to this GIAP - Git Demo Session!!
