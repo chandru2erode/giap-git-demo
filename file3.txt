@@ -1,1 +1,1 @@
-GIAP - Git Demo in Analytics Applications
+GIAP - Module 8: Analytics Application - GIT Demo Session
